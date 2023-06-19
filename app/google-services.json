@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "178855050527",
+    "project_id": "fir-realtimemanuel",
+    "storage_bucket": "fir-realtimemanuel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178855050527:android:365fc529a0356bbce0c42a",
+        "android_client_info": {
+          "package_name": "com.example.firebaserealtimemanuel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178855050527-jrkq48rbbj6u2e4vubt63669e9jnh4o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfa586NXwXL228lhDjuiaOwD5qGoAvRCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178855050527-jrkq48rbbj6u2e4vubt63669e9jnh4o3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
